@@ -2,8 +2,9 @@
   "name": "vue-canvas",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "张晓 <zhangxiao@sh-jiuye.com.cn>",
+  "author": "nanami <xixixixiao@hotmail.com>",
   "private": true,
+  "homepage": "https://yvonnecheung.github.io/vue-canvas/",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
